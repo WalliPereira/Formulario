@@ -7,6 +7,7 @@
 </head>
 <body>
     <h2>Prova 002</h2>
+    <form>
 
     <!-- Campo de login -->
 
@@ -50,7 +51,9 @@
     <!-- Butão de Enviar e Resetar -->
 
     <input type="submit">
-    <input type="reset">
+    
+    <button type="reset">Limpar</button>
+    </form>
 
 </body>
 </html>
